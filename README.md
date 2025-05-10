@@ -30,5 +30,3 @@ Full Name - VARCHAR
 Department Name - VARCHAR
 
 Salary - Double
-
-  
